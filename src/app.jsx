@@ -31,7 +31,7 @@ render() {
        <div className='card'>
           <div className='card-body' backgroundImage> 
               <h1>San Diego Top Spots</h1>
-              <p>A list of the top 30 places to see in Los Angeles, California.</p>
+              <p>A list of the top 30 places to see in San Diego, California.</p>
           </div>
         </div>
                 
